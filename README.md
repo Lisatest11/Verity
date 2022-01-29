@@ -57,11 +57,15 @@ Configure the files:
      a.	Configure your baseUrl(test environment: Test, Staging, or Production environment)
      
      b.	Configure your test wondow size
-     
+     ![image](https://user-images.githubusercontent.com/95558525/151650961-6a132076-3950-4546-b6b8-7c980f50fe2b.png)
+
 2.	support/index.js (configure the uncaught exception to make the test cases keep running)
 	![image](https://user-images.githubusercontent.com/95558525/149648635-b59c9e25-125a-4acd-947b-e6d4102b6bdd.png)
     
 3.	package.json (configure cucumber) 
  ![image](https://user-images.githubusercontent.com/95558525/149648652-72c5b666-57ed-4f25-9aac-a77332234156.png)
 4.	plugins/index.js (configure cucumber) 
-![image](https://user-images.githubusercontent.com/95558525/149648659-c7d9c569-e17e-47c3-8ac8-f071be36e2c3.png)
+![image](https://user-images.githubusercontent.com/95558525/151650993-d8dd2cf7-fe80-4ce8-a92e-883e8160b791.png)
+# Create your test
+![image](https://user-images.githubusercontent.com/95558525/151651028-5cc16b92-af90-48a0-b250-9d08e428a48d.png)
+
