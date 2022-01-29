@@ -1,6 +1,7 @@
 # Verity
 # Test scenarios:
 1.Search "Software" and validate Wikipedia link is returned as the first result. 
+
 2.Search "literature" and validate "britannica.com" is returned in the search result and display the position or index of the result
 
 # Demo video:
