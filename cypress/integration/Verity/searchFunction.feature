@@ -6,5 +6,5 @@ Feature: Google search function
     Scenario: search keywords "Literature" and check the result of "britannica.com"
         When I search "Literature" 
         Then I can see "britannica.com" is returned
-        And I can see the position where the result is in "britannica.com"
+        And I can get the position for "britannica.com"
 
