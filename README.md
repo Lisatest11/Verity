@@ -5,7 +5,7 @@
 2.Search "literature" and validate "britannica.com" is returned in the search result and display the position or index of the result
 
 # Demo video:
-https://watch.screencastify.com/v/PoMUNLo2jWVKJL7QGrzQ
+https://watch.screencastify.com/v/GmFeHcKvY7Yfsu3nuHwo
 
 # How to run the test from the start:
 
